@@ -1,2 +1,0 @@
-C:\Users\admin\source\repos\SuspendThreadsInTarget\x64\Release\SuspendThreadsInTarget.exe
-C:\Users\Tester\source\repos\repos\OffsecDev-main\cpp\SuspendThreadsInTarget\x64\Release\SuspendThreadsInTarget.exe
