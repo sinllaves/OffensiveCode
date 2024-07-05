@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\admin\source\repos\ApptoCallDLL_Function\Source.cpp(11,24): warning C4129: 's': unrecognized character escape sequence
+C:\Users\admin\source\repos\ApptoCallDLL_Function\Source.cpp(11,24): warning C4129: 'G': unrecognized character escape sequence
+C:\Users\admin\source\repos\ApptoCallDLL_Function\Source.cpp(11,24): warning C4129: 'R': unrecognized character escape sequence
+  ApptoCallDLL_Function.vcxproj -> C:\Users\admin\source\repos\ApptoCallDLL_Function\x64\Debug\ApptoCallDLL_Function.exe

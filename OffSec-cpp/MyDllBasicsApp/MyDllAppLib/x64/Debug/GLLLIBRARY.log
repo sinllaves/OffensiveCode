@@ -1,0 +1,4 @@
+﻿  mydll.cpp
+     Creating library C:\Users\admin\source\repos\GLLLIBRARY\x64\Debug\GLLLIBRARY.lib and object C:\Users\admin\source\repos\GLLLIBRARY\x64\Debug\GLLLIBRARY.exp
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\admin\source\repos\GLLLIBRARY\x64\Debug\GLLLIBRARY.exe : fatal error LNK1120: 1 unresolved externals
