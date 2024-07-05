@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SuspendThreadsInTarget", "SuspendThreadsInTarget.vcxproj", "{752D6AF2-9CBF-4E9E-AA1B-A6F6E4E0A1BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{752D6AF2-9CBF-4E9E-AA1B-A6F6E4E0A1BE}.Debug|x64.ActiveCfg = Debug|x64
+		{752D6AF2-9CBF-4E9E-AA1B-A6F6E4E0A1BE}.Debug|x64.Build.0 = Debug|x64
+		{752D6AF2-9CBF-4E9E-AA1B-A6F6E4E0A1BE}.Debug|x86.ActiveCfg = Debug|Win32
+		{752D6AF2-9CBF-4E9E-AA1B-A6F6E4E0A1BE}.Debug|x86.Build.0 = Debug|Win32
+		{752D6AF2-9CBF-4E9E-AA1B-A6F6E4E0A1BE}.Release|x64.ActiveCfg = Release|x64
+		{752D6AF2-9CBF-4E9E-AA1B-A6F6E4E0A1BE}.Release|x64.Build.0 = Release|x64
+		{752D6AF2-9CBF-4E9E-AA1B-A6F6E4E0A1BE}.Release|x86.ActiveCfg = Release|Win32
+		{752D6AF2-9CBF-4E9E-AA1B-A6F6E4E0A1BE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DE01ADC-E6BB-4A30-B9E8-FE17D3E8A0B1}
+	EndGlobalSection
+EndGlobal
