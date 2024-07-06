@@ -1,1 +1,0 @@
-create and add the plugins here /usr/lib/x86_64-linux-gnu/wireshark/plugins/4.2/
