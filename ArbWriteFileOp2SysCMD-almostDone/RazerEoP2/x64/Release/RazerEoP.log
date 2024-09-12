@@ -1,0 +1,17 @@
+﻿  FileOplock.cpp
+C:\Users\admin\source\repos\91124SuperRepo\91124SuperRepo\OffensiveStuff\OffSec-cpp\RazerEoP-main\RazerEoP-main\ArbDelete\RazerEoP2\FileOplock.cpp(95,8): warning C4101: 'bytesReturned': unreferenced local variable
+  Source.cpp
+C:\Users\admin\source\repos\91124SuperRepo\91124SuperRepo\OffensiveStuff\OffSec-cpp\RazerEoP-main\RazerEoP-main\ArbDelete\RazerEoP2\Source.cpp(153,21): warning C4477: '_swprintf' : format string '%s' requires an argument of type 'wchar_t *', but variadic argument 1 has type 'RPC_WSTR'
+C:\Users\admin\source\repos\91124SuperRepo\91124SuperRepo\OffensiveStuff\OffSec-cpp\RazerEoP-main\RazerEoP-main\ArbDelete\RazerEoP2\Source.cpp(160,65): warning C4267: '=': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\admin\source\repos\91124SuperRepo\91124SuperRepo\OffensiveStuff\OffSec-cpp\RazerEoP-main\RazerEoP-main\ArbDelete\RazerEoP2\Source.cpp(162,80): warning C4267: 'argument': conversion from 'size_t' to 'ULONG', possible loss of data
+C:\Users\admin\source\repos\91124SuperRepo\91124SuperRepo\OffensiveStuff\OffSec-cpp\RazerEoP-main\RazerEoP-main\ArbDelete\RazerEoP2\Source.cpp(251,28): warning C4244: '=': conversion from 'SIZE_T' to 'USHORT', possible loss of data
+C:\Users\admin\source\repos\91124SuperRepo\91124SuperRepo\OffensiveStuff\OffSec-cpp\RazerEoP-main\RazerEoP-main\ArbDelete\RazerEoP2\Source.cpp(254,55): warning C4244: '=': conversion from 'SIZE_T' to 'USHORT', possible loss of data
+C:\Users\admin\source\repos\91124SuperRepo\91124SuperRepo\OffensiveStuff\OffSec-cpp\RazerEoP-main\RazerEoP-main\ArbDelete\RazerEoP2\Source.cpp(260,59): warning C4244: 'argument': conversion from 'SIZE_T' to 'DWORD', possible loss of data
+C:\Users\admin\source\repos\91124SuperRepo\91124SuperRepo\OffensiveStuff\OffSec-cpp\RazerEoP-main\RazerEoP-main\ArbDelete\RazerEoP2\Source.cpp(229,9): warning C4101: 'hJunction': unreferenced local variable
+C:\Users\admin\source\repos\91124SuperRepo\91124SuperRepo\OffensiveStuff\OffSec-cpp\RazerEoP-main\RazerEoP-main\ArbDelete\RazerEoP2\Source.cpp(280,18): warning C4101: 'io': unreferenced local variable
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\admin\source\repos\91124SuperRepo\91124SuperRepo\OffensiveStuff\OffSec-cpp\RazerEoP-main\RazerEoP-main\ArbDelete\RazerEoP2\Source.cpp(211): warning C4172: returning address of local variable or temporary: ntpath
+  All 38 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  RazerEoP.vcxproj -> C:\Users\admin\source\repos\91124SuperRepo\91124SuperRepo\OffensiveStuff\OffSec-cpp\RazerEoP-main\RazerEoP-main\ArbDelete\RazerEoP2\x64\Release\RazerEoP.exe
