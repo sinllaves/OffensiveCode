@@ -1,0 +1,6 @@
+﻿  ShellCode PreChecker.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 332 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ShellCode PreChecker.vcxproj -> C:\Users\admin\source\repos\91124SuperRepo\91124SuperRepo\OffensiveStuff\OffSec-cpp\ShellCode PreChecker\x64\Release\ShellCode PreChecker.exe
